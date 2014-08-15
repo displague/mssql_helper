@@ -8,5 +8,5 @@ Include this file and legacy code that relies on ``sqlsrv_*`` database calls wil
 
 ## See Also
 
-(PDO_SQLSRV Drivers)[http://www.microsoft.com/en-us/download/details.aspx?id=20098]
-
+* [PHP MSSQL Documentation](http://php.net/mssql)
+* [PDO_SQLSRV Drivers](http://www.microsoft.com/en-us/download/details.aspx?id=20098)
